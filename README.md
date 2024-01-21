@@ -1,7 +1,7 @@
 # IN_Clinical_trials
 The purpose of this project is to gather data about clinical trials that have been conducted in the state of Indiana in order to make a determination about the level of trial activity in the state, how it compares to other states, and the nature of the trials. The goal is to understand where Indiana ranks, what areas we may be able to target for improvement and to get a general sense of the distribution of trial activity across the country as a whole.
 
-Source data for this project:
+## Data Sources:
 
 1) The US National Institutes of Health maintains the most complrehensive dataset around clinical trials in the United States.
 https://www.clinicaltrials.gov/
